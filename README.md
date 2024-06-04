@@ -1,15 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ryavee.ryavee" />
-<img src="https://komarev.com/ghpvc/?username=ryavee&label=Profile%20views&color=0e75b6&style=flat" alt="ryavee" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravi+Raj!;" />
 </h1>
 
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <br/>
 
 <div align="center">
+    
+🔭 I’m currently **working on E-commerce Platform**
 
 💬 Ask me about **Java,JavaScript,Node.js, React... or anything [here]()**
 
@@ -40,4 +41,9 @@
 
 <br/>
 <hr/>
-<!-- ![Ravi Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryavee&theme=dark&show_icons=true) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryavee&show_icons=true&locale=en&layout=compact" alt="ryavee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryavee&show_icons=true&locale=en" alt="ryavee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryavee&" alt="ryavee" /></p>
+
