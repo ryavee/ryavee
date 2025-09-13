@@ -14,7 +14,7 @@
 
 💬 Ask me about **Java,JavaScript,Node.js, React... or anything [here]()**
 
-⚡ Fun fact **Your tongue print is as unique as your fingerprint.**
+⚡ Fun fact **"Your tongue print is as unique as your fingerprint."**
 
  </div>
  
